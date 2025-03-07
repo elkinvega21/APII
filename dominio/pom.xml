@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>campeonatofifa</groupId>
+        <artifactId>api</artifactId>
+        <version>4.0.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>dominio</artifactId>
+    <packaging>jar</packaging>
+
+</project> 
